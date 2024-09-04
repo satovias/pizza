@@ -16,7 +16,7 @@ jobs:
     - name: pizza
       run: |
         git config --global user.email "mrczsweatcoin@gmail.com"
-        git config --global user.name "xONEIROS"
+        git config --global user.name "pizza"
 
     - name: Select Random Sticker
       id: random_sticker
